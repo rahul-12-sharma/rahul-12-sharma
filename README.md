@@ -33,7 +33,7 @@ Here's a quick overview of the technologies I use and love:
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/wordpress/wordpress-plain.svg" title="WordPress" alt="WordPress" width="50" height="50" style="vertical-align: middle; margin: 10px;"/>
   </span>
   <span>
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg" title="Tailwind CSS" alt="Tailwind CSS" width="50" height="50" style="vertical-align: middle; margin: 10px;"/>
+     <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="Tailwind CSS" width="50" height="50"/>&nbsp;&nbsp;
   </span>
 </p>
 
