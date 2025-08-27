@@ -1,46 +1,16 @@
-## 👋 I'm Rahul Sharma  
+👋 Hi, I'm Rahul Sharma
 
-# 🚀 My Tech Stack
+I'm a passionate full-stack developer who enjoys building sleek, scalable web applications. I love solving real-world problems with clean, efficient code and modern technologies.
 
-Here's a quick overview of the technologies I use and love:
+🚀 My Tech Stack
 
-<p align="center">
-  <span>
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" title="HTML5" alt="HTML5" width="50" height="50" style="vertical-align: middle; margin: 10px;"/>
-  </span>
-  <span>
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" title="CSS3" alt="CSS3" width="50" height="50" style="vertical-align: middle; margin: 10px;"/>
-  </span>
-  <span>
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="50" height="50" style="vertical-align: middle; margin: 10px;"/>
-  </span>
-  <span>
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" title="Python" alt="Python" width="50" height="50" style="vertical-align: middle; margin: 10px;"/>
-  </span>
-  <span>
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" title="React" alt="React" width="50" height="50" style="vertical-align: middle; margin: 10px;"/>
-  </span>
-  <span>
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redux/redux-original.svg" title="Redux" alt="Redux" width="50" height="50" style="vertical-align: middle; margin: 10px;"/>
-  </span>
-  <span>
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" title="Django" alt="Django" width="50" height="50" style="vertical-align: middle; margin: 10px;"/>
-  </span>
-  <span>
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" title="Bootstrap" alt="Bootstrap" width="50" height="50" style="vertical-align: middle; margin: 10px;"/>
-  </span>
-  <span>
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/wordpress/wordpress-plain.svg" title="WordPress" alt="WordPress" width="50" height="50" style="vertical-align: middle; margin: 10px;"/>
-  </span>
-  <span>
-     <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="Tailwind CSS" width="50" height="50"/>&nbsp;&nbsp;
-  </span>
-</p>
+Here’s a quick glance at the tools and technologies I work with:
 
----
+<p align="center"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" title="HTML5" alt="HTML5" width="40" height="40" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" title="CSS3" alt="CSS3" width="40" height="40" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="40" height="40" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" title="React" alt="React" width="40" height="40" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" title="Next.js" alt="Next.js" width="40" height="40" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" title="Python" alt="Python" width="40" height="40" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" title="Django" alt="Django" width="40" height="40" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" title="Bootstrap" alt="Bootstrap" width="40" height="40" /> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" title="Tailwind CSS" alt="Tailwind CSS" width="40" height="40" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg" title="SQLite3" alt="SQLite3" width="40" height="40" /> </p>
+📬 Let's Connect
 
-## 💡 Let's Connect
+📧 Email: sandilyrahul@gmail.com
 
-📫 **Email:** [sandilyrahul@gmail.com](mailto:sandilyrahul@gmail.com)  
-🌐 **Portfolio:** [modern-portfolio-jet-three.vercel.app](https://modern-portfolio-jet-three.vercel.app/)  
-💼 **LinkedIn:** [Rahul Sharma](https://www.linkedin.com/in/rahul-sharma-69509b33a/)
+🌐 Portfolio: modern-portfolio-jet-three.vercel.app
+
+💼 LinkedIn: Rahul Sharma
